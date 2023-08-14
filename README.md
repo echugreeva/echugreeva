@@ -14,10 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a JavaScript Full Stack Developer 👩🏻‍💻 with a background in web creation, educational tech, and the cybersecurity industry. Passionate about user experience and creating impactful solutions. A former digital marketer, I possess a strong understanding of business processes, user flows, and data analysis. At a certain point, I made the decision to transition from learning human languages to mastering machine languages. So here I am looking 👀 to work on a new project.
+
+<div style="display: flex; flex-direction: row-reverse">
+<img src="img.jpg" alt="Alt Text" width="250" height="250"  style="margin-right: 20px;" >
+<p>
+  I am a <strong>JavaScript Full Stack Developer</strong> with a background in <em>web creation, educational tech, and the cybersecurity industry</em>. Passionate about user experience and creating impactful solutions. A former digital marketer, I possess a strong understanding of business processes, user flows, and data analysis. At a certain point, I made the decision to transition from learning human languages to mastering machine languages. So here I am looking 👀 to work on a new project.
+</p>
+</div>
 
 
-⚒️ ⌨️ My Technical Skills:
+
+
+<strong>⚒️ ⌨️ My Technical Skills:</strong>
 - Front-end: HTML, CSS, JavaScript, React JS, Redux, Bootstrap, Material UI, Ant Design, 
 - Back-end: NodeJS, Express, PostgreSQL
 - Other relevant skills: REST APIs, Git, Google ads scripts, Google ads API, Data studio/ Looker, ChatGPT API
