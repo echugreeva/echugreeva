@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p>
-  I am a <strong>JavaScript Full Stack Developer</strong> with a background in <em>web creation, educational tech, and the cybersecurity industry</em>. Passionate about user experience and creating impactful solutions. A former digital marketer, I possess a strong understanding of business processes, user flows, and data analysis. At a certain point, I made the decision to transition from learning human languages to mastering machine languages. So here I am looking 👀 to work on a new project.
+  I am a <strong>JavaScript Full Stack Developer</strong> with a background in <em>web creation, educational tech, and the cybersecurity industries</em>. Passionate about user experience and creating impactful solutions. A former digital marketer, I possess a strong understanding of business processes, user flows, and data analysis. At a certain point, I made the decision to transition from learning human languages to mastering machine languages. So here I am looking 👀 to work on a new project.
 </p>
 
 
