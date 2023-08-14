@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a JavaScript Full Stack Developer 👩🏻‍💻 with a background in web creation, educational tech, and the cybersecurity industry. Passionate about user experience and creating impactful solutions. A former digital marketer, I possess a strong understanding of business processes, user flows, and data analysis. At a certain point, I made the decision to transition from learning human languages to mastering machine languages. So here I am looking 👀 to work on my a project.
+I am a JavaScript Full Stack Developer 👩🏻‍💻 with a background in web creation, educational tech, and the cybersecurity industry. Passionate about user experience and creating impactful solutions. A former digital marketer, I possess a strong understanding of business processes, user flows, and data analysis. At a certain point, I made the decision to transition from learning human languages to mastering machine languages. So here I am looking 👀 to work on a new project.
 
 
 ⚒️ ⌨️ My Technical Skills:
